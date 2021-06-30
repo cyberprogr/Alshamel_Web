@@ -70,7 +70,7 @@ h4, .h4 {
 
 section {
 	position: relative;
-	background-color: #ffffff;
+	background-color: #2471A3;
 }
 
 .overlay {
@@ -101,7 +101,7 @@ BUTTONS
 }
 
 .btn-default.white-yellow {
-	color: #ffe600;
+	color: #2471A3;
 	background-color: #ffffff;
 	border: 1px solid #ffffff;
 }
@@ -114,7 +114,7 @@ BUTTONS
 .btn-default.white-yellow:active:focus, 
 .btn-default.white-yellow:active:hover {
 	color: #ffffff;
-	background: #ffe600;
+	background: #2471A3;
 	border: 1px solid #ffffff;
 	box-shadow: none;
 	outline: none;
@@ -122,7 +122,7 @@ BUTTONS
 
 .btn-default.yellow-white {
 	color: #ffffff;
-	background-color: #ffe600;
+	background-color: #2471A3;
 	border: 1px solid #ffe600;
 }
 
@@ -133,7 +133,7 @@ BUTTONS
 .btn-default.yellow-white:active.focus, 
 .btn-default.yellow-white:active:focus, 
 .btn-default.yellow-white:active:hover {
-	color: #ffe600;
+	color: #2471A3;
 	background: #ffffff;
 	border: 1px solid #ffe600;
 	box-shadow: none;
@@ -141,7 +141,7 @@ BUTTONS
 }
 
 .btn-default.white-blue {
-	color: #334752;
+	color: #2471A3;
 	background-color: #ffffff;
 	border: 1px solid #ffffff;
 }
@@ -182,7 +182,7 @@ SOCIAL ICONS
 	display: block;
 	width: 35px;
 	height: 35px;
-	color: #324651;
+	color: #2471A3;
 	background: #fafafa;
 	border: 1px solid #ffffff;
 	border-radius: 100%;
@@ -194,7 +194,7 @@ SOCIAL ICONS
 
 .social-list a:hover {
 	color: #ffffff;
-	background: #ffe600;
+	background: #2471A3;
 }
 
 .si {
@@ -267,14 +267,14 @@ NAVIGATION
 
 #main-navigation.navbar-default .navbar-nav>li>a:focus, 
 #main-navigation.navbar-default .navbar-nav>li>a:hover {
-	color: #ffe600;
+	color: #2471A3;
 	background-color: transparent;
 }
 
 #main-navigation.navbar-default .navbar-nav>.active>a, 
 #main-navigation.navbar-default .navbar-nav>.active>a:focus, 
 #main-navigation.navbar-default .navbar-nav>.active>a:hover {
-	color: #ffe600;
+	color: #2471A3;
 	background-color: transparent;
 }
 
@@ -291,7 +291,7 @@ NAVIGATION
 }
 
 #main-navigation.navbar-default .navbar-toggle .icon-bar {
-	background: #ffe600;
+	background: #2471A3;
 	width: 22px;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
@@ -387,7 +387,7 @@ HOME SECTION
 .carousel-indicators .active {
 	margin: 0 8px;
 	border-radius: 8px;
-	border-color: #ffe600;
+	border-color: #2471A3;
 	background-color: #ffe600;
 }
 
@@ -418,7 +418,7 @@ SERVICES SECTION
 	top: 56px;
 	width: 80%;
 	left: 10%;
-	border-top: 2px solid #ffe600;
+	border-top: 2px solid #2471A3;
 }
 
 .services-container .service {
@@ -449,7 +449,7 @@ SERVICES SECTION
 }
 
 .we-make-section h3 {
-	color: #ffe600;;
+	color: #2471A3;;
 	margin-top: 15px;
 }
 
@@ -484,7 +484,7 @@ SERVICES SECTION
 .services-cta-container {
 	padding: 35px 0;
 	text-align: center;
-	background: #ffe500;
+	background: #2471A3;
 }
 
 /**********************
@@ -524,14 +524,14 @@ PORTFOLIO SECTION
 
 #portfolio-navigation .navbar-nav>li>.filter:hover,
 #portfolio-navigation .navbar-nav>li>.filter:focus {
-	color: #ffe600;
+	color: #2471A3;
 }
 
 #portfolio-navigation .navbar-nav>li>.filter.mixitup-control-active, 
 #portfolio-navigation .navbar-nav>li>.filter.mixitup-control-active:hover,
 #portfolio-navigation .navbar-nav>li>.filter.mixitup-control-active:focus {
 	color: #ffffff;
-	background: #ffe600;
+	background: #2471A3;
 	border: 1px solid #ffe600;
 	box-shadow: none;
 }
@@ -567,14 +567,14 @@ PORTFOLIO SECTION
 .video-section {
 	margin-top: 94px;
 	padding: 94px 0;
-	background: #ffe500;
+	background: #2471A3;
 	color: #ffffff;
 }
 
 .video-section h4 {
 	text-transform: uppercase;
 	font-weight: 600;
-	color: #334752;
+	color: #2471A3;
 }
 
 .video-section p {
@@ -583,7 +583,7 @@ PORTFOLIO SECTION
 
 .video-section i {
 	font-weight: 300;
-	color: #334752;
+	color: #2471A3;
 }
 
 .video-section .video-description {
@@ -601,7 +601,7 @@ PORTFOLIO SECTION
 
 .business-section {
 	padding: 96px 0 0;
-	background: #324651;
+	background: #2471A3;
 	color: #ffffff;
 	text-align: center;
 	overflow: hidden;
@@ -654,7 +654,7 @@ ABOUT US SECTION
 	margin-top: 64px;
 	font-size: 25px;
 	font-weight: 600;
-	color: #ffe600;
+	color: #2471A3;
 }
 
 .about-team .team-member .position {
@@ -692,12 +692,12 @@ SKILLS & COMPANY SUBSECTION
 
 .skills-company-subsection {
 	padding: 90px 0;
-	background: #324651;
+	background: #2471A3;
 	color: #ffffff;
 }
 
 .skills-company-subsection h4 {
-	color: #ffe600;
+	color: #2471A3;
 	font-weight: 600;
 	text-transform: uppercase;
 }
@@ -722,7 +722,7 @@ SKILLS & COMPANY SUBSECTION
 .skills-subsection .progress-bar {
 	line-height: 15px;
 	border-radius: 10px;
-	background-color: #ffe600;
+	background-color: #2471A3;
 }
 
 .company-subsection .description {
@@ -766,7 +766,7 @@ BLOG SECTION
 
 .blog-entry a {
 	text-decoration: none;
-	color: #ffe600;
+	color: #2471A3;
 }
 
 .blog-entry a:hover,
@@ -799,7 +799,7 @@ BLOG SECTION
 #blog .newsletter {
 	margin-top: 95px;
 	padding: 53px 0;
-	background: #ffe600;
+	background: #2471A3;
 	color: #ffffff;
 }
 
@@ -958,7 +958,7 @@ HELPER CLASSES
 ***********************/
 
 .text-yellow {
-	color: #ffe600;
+	color: #2471A3;
 }
 
 .img-container {
