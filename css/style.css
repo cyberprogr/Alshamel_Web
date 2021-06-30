@@ -70,7 +70,7 @@ h4, .h4 {
 
 section {
 	position: relative;
-	background-color: #2471A3;
+	background-color: #ffffff;
 }
 
 .overlay {
@@ -79,7 +79,7 @@ section {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(50, 70, 81, 0.9);
+	background: rgba(50, 70, 81, 0.7);
 }
 
 /**********************
@@ -122,8 +122,9 @@ BUTTONS
 
 .btn-default.yellow-white {
 	color: #ffffff;
-	background-color: #2471A3;
-	border: 1px solid #ffe600;
+	background-color: #2471A3
+;
+	border: 1px solid #2471A3;
 }
 
 .btn-default.yellow-white:hover,
@@ -135,13 +136,13 @@ BUTTONS
 .btn-default.yellow-white:active:hover {
 	color: #2471A3;
 	background: #ffffff;
-	border: 1px solid #ffe600;
+	border: 1px solid #2471A3;
 	box-shadow: none;
 	outline: none;
 }
 
 .btn-default.white-blue {
-	color: #2471A3;
+	color: #334752;
 	background-color: #ffffff;
 	border: 1px solid #ffffff;
 }
@@ -182,7 +183,7 @@ SOCIAL ICONS
 	display: block;
 	width: 35px;
 	height: 35px;
-	color: #2471A3;
+	color: #324651;
 	background: #fafafa;
 	border: 1px solid #ffffff;
 	border-radius: 100%;
@@ -267,14 +268,18 @@ NAVIGATION
 
 #main-navigation.navbar-default .navbar-nav>li>a:focus, 
 #main-navigation.navbar-default .navbar-nav>li>a:hover {
-	color: #2471A3;
+	color: #2471A3
+
+;
 	background-color: transparent;
 }
 
 #main-navigation.navbar-default .navbar-nav>.active>a, 
 #main-navigation.navbar-default .navbar-nav>.active>a:focus, 
 #main-navigation.navbar-default .navbar-nav>.active>a:hover {
-	color: #2471A3;
+	color: #2471A3
+
+;
 	background-color: transparent;
 }
 
@@ -291,7 +296,9 @@ NAVIGATION
 }
 
 #main-navigation.navbar-default .navbar-toggle .icon-bar {
-	background: #2471A3;
+	background: #2471A3
+
+;
 	width: 22px;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
@@ -387,8 +394,12 @@ HOME SECTION
 .carousel-indicators .active {
 	margin: 0 8px;
 	border-radius: 8px;
-	border-color: #2471A3;
-	background-color: #ffe600;
+	border-color: #2471A3
+
+;
+	background-color: #2471A3
+
+;
 }
 
 .carousel-control {
@@ -396,7 +407,9 @@ HOME SECTION
 }
 
 .carousel-control span {
-	color: #ffe600;
+	color: #2471A3
+
+;
 }
 
 /**********************
@@ -418,7 +431,9 @@ SERVICES SECTION
 	top: 56px;
 	width: 80%;
 	left: 10%;
-	border-top: 2px solid #2471A3;
+	border-top: 2px solid #2471A3
+
+;
 }
 
 .services-container .service {
@@ -449,7 +464,9 @@ SERVICES SECTION
 }
 
 .we-make-section h3 {
-	color: #2471A3;;
+	color: #2471A3
+
+;
 	margin-top: 15px;
 }
 
@@ -484,7 +501,9 @@ SERVICES SECTION
 .services-cta-container {
 	padding: 35px 0;
 	text-align: center;
-	background: #2471A3;
+	background: #2471A3
+
+;
 }
 
 /**********************
@@ -524,15 +543,21 @@ PORTFOLIO SECTION
 
 #portfolio-navigation .navbar-nav>li>.filter:hover,
 #portfolio-navigation .navbar-nav>li>.filter:focus {
-	color: #2471A3;
+	color: #2471A3
+
+;
 }
 
 #portfolio-navigation .navbar-nav>li>.filter.mixitup-control-active, 
 #portfolio-navigation .navbar-nav>li>.filter.mixitup-control-active:hover,
 #portfolio-navigation .navbar-nav>li>.filter.mixitup-control-active:focus {
 	color: #ffffff;
-	background: #2471A3;
-	border: 1px solid #ffe600;
+	background: #2471A3
+
+;
+	border: 1px solid #2471A3
+
+;
 	box-shadow: none;
 }
 
@@ -567,14 +592,14 @@ PORTFOLIO SECTION
 .video-section {
 	margin-top: 94px;
 	padding: 94px 0;
-	background: #2471A3;
+	background: #ffe500;
 	color: #ffffff;
 }
 
 .video-section h4 {
 	text-transform: uppercase;
 	font-weight: 600;
-	color: #2471A3;
+	color: #334752;
 }
 
 .video-section p {
@@ -583,7 +608,7 @@ PORTFOLIO SECTION
 
 .video-section i {
 	font-weight: 300;
-	color: #2471A3;
+	color: #334752;
 }
 
 .video-section .video-description {
@@ -601,7 +626,7 @@ PORTFOLIO SECTION
 
 .business-section {
 	padding: 96px 0 0;
-	background: #2471A3;
+	background: #324651;
 	color: #ffffff;
 	text-align: center;
 	overflow: hidden;
@@ -654,7 +679,9 @@ ABOUT US SECTION
 	margin-top: 64px;
 	font-size: 25px;
 	font-weight: 600;
-	color: #2471A3;
+	color: #2471A3
+
+;
 }
 
 .about-team .team-member .position {
@@ -692,12 +719,14 @@ SKILLS & COMPANY SUBSECTION
 
 .skills-company-subsection {
 	padding: 90px 0;
-	background: #2471A3;
+	background: #324651;
 	color: #ffffff;
 }
 
 .skills-company-subsection h4 {
-	color: #2471A3;
+	color: #2471A3
+
+;
 	font-weight: 600;
 	text-transform: uppercase;
 }
@@ -722,7 +751,9 @@ SKILLS & COMPANY SUBSECTION
 .skills-subsection .progress-bar {
 	line-height: 15px;
 	border-radius: 10px;
-	background-color: #2471A3;
+	background-color: #2471A3
+
+;
 }
 
 .company-subsection .description {
@@ -766,7 +797,9 @@ BLOG SECTION
 
 .blog-entry a {
 	text-decoration: none;
-	color: #2471A3;
+	color: #2471A3
+
+;
 }
 
 .blog-entry a:hover,
@@ -799,7 +832,9 @@ BLOG SECTION
 #blog .newsletter {
 	margin-top: 95px;
 	padding: 53px 0;
-	background: #2471A3;
+	background: #2471A3
+
+;
 	color: #ffffff;
 }
 
@@ -958,7 +993,9 @@ HELPER CLASSES
 ***********************/
 
 .text-yellow {
-	color: #2471A3;
+	color: #2471A3
+
+;
 }
 
 .img-container {
