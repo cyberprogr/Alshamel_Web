@@ -535,7 +535,6 @@ PORTFOLIO SECTION
 	padding: 10px 20px;
 	margin: 0 5px;
 	color: #637988;
-	background: transparent;
 	border: 1px solid transparent;
 	border-radius: 20px;
 	box-sizing: border-box;
@@ -767,7 +766,6 @@ BLOG SECTION
 
 #blog {
 	padding: 93px 0 0;
-	background: #fafafa;
 }
 
 .first-row-entry {
@@ -889,11 +887,11 @@ CONTACT US SECTION
 
 #contact {
 	padding: 89px 0 93px;
-	color: #ffffff;
+	color: #0f0f0f;
 }
 
 #contact .section-title {
-	color: #ffffff;
+	color: #0f0f0f;
 }
 
 #contact .contact-form {
