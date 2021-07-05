@@ -20,7 +20,12 @@ body {
   --greyDark: #9baacf;
 }
 
-
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  overflow-y: scroll;
+  background: var(--greyLight-1);
+}
 ul, ol {
 	list-style-type: none;
 	padding: 0;
