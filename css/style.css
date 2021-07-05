@@ -1,14 +1,6 @@
 /**********************
 DEFAULT
 ***********************/
-
-body {
-	padding-top: 100px;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
-	color: #637988;
-	line-height: 20px;
-}
 :root {
   --primary-light: #8abdff;
   --primary: #6d5dfc;
@@ -19,6 +11,16 @@ body {
   --greyLight-3: #bec8e4;
   --greyDark: #9baacf;
 }
+body {
+	padding-top: 100px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	color: #637988;
+	line-height: 20px;
+	  background: var(--greyLight-1);
+
+}
+
 
 html {
   box-sizing: border-box;
