@@ -17,7 +17,7 @@ body {
 	font-size: 15px;
 	color: #637988;
 	line-height: 20px;
-	  background: var(--greyLight-1);
+	  background-color: var(--greyLight-1);
 
 }
 
@@ -26,7 +26,7 @@ html {
   box-sizing: border-box;
   font-size: 62.5%;
   overflow-y: scroll;
-  background: var(--greyLight-1);
+	  background-color: var(--greyLight-1);
 }
 ul, ol {
 	list-style-type: none;
